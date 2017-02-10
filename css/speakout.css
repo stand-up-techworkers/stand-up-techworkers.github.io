@@ -1,0 +1,9 @@
+#companies {
+  padding-top: 200px;
+}
+
+.list-group-item, .list-group-item a {
+  color: #18BC9C;
+  font-weight: bold;
+  font-size: 125%;
+}
